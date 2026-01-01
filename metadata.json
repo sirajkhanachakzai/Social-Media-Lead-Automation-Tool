@@ -1,0 +1,5 @@
+{
+  "name": "SocialLead AI Automation",
+  "description": "An AI-powered lead management dashboard that captures leads from social media snippets, stores them in a local database, and generates personalized automated follow-up messages using Gemini.",
+  "requestFramePermissions": []
+}
